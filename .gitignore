@@ -1,0 +1,4 @@
+*.log
+!email.log
+text.txt
+node_pakgs
